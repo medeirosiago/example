@@ -1,3 +1,1 @@
-Hello World
-
-Untracked > Stage > Commit
+Goia e Yuri
